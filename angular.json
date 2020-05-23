@@ -119,6 +119,14 @@
           }
         }
       }
-    }},
-  "defaultProject": "Angular7"
+    }
+  },
+  "defaultProject": "Angular7",
+  "schematics": {
+    "@schematics/angular": {
+      "component": {
+        "spec": false
+      }
+    }
+  }
 }

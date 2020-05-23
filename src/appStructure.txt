@@ -1,0 +1,18 @@
+src
+    app
+        payment details
+            payment details.components.ts , html, css 
+                payment-details 
+                    payment detail.component.txt, html, css
+                payment-detail-list
+                    payment-detail-list.component.ts, html,css
+
+                    Shared 
+                        payment-detail.service.ts
+                        payment-detail.model.ts
+
+    App.module.ts 
+
+index.html (cdn path for bootstrap & fa icons)
+
+                    
